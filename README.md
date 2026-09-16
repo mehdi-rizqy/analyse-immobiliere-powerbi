@@ -33,7 +33,7 @@ Ce projet est un tableau de bord interactif développé sous Power BI pour analy
 *Analyse des quartiles, détection des marchés sous-évalués et calcul du prix estimé théorique.*
 
 ### 5. Modèle de Données
-![Modèle Étoile](Modèle_étoile.jpg)
+![Modèle Étoile](Modéle_étoile.jpg)
 *Architecture du modèle en étoile utilisée pour optimiser les performances et la clarté des analyses.*
 
 ### 6. Spécifications du Projet
