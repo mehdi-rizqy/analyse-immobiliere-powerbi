@@ -42,5 +42,5 @@ Ce projet est un tableau de bord interactif développé sous Power BI pour analy
 
 ##  Fichiers du projet
 - `ProjetBI.pbix` : Le fichier source Power BI (nécessite Power BI Desktop pour être ouvert).
-- `Housing_BI_Morocco_REAL_PRICE.xlsx` : Le jeu de données source (485 lignes).
+- `Housing_BI_Morocco_REAL_PRICE.xlsx` : Le jeu de données source (546 lignes).
 - `Questions BI.txt` : Les questions business auxquelles le tableau de bord répond.
