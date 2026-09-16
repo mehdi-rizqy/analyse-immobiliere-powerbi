@@ -1,0 +1,21 @@
+Questions BI
+
+Quel est le prix moyen du mètre carré dans chaque ville marocaine ?
+
+Quelles sont les villes les plus chères et les moins chères, et quel est l'écart entre les grandes et les petites villes ?
+
+Comment le nombre de chambres, de salles de bain et la surface influencent-ils le prix ?
+
+Quelle est la fourchette de prix équitable pour chaque ville ?
+
+Quel est l'impact du quartier prestigieux (prefarea) et des spécifications sur le prix, et les prix sont-ils proportionnels à ces éléments ?
+
+Quelles villes souffrent d'une surévaluation ou d'une sous-évaluation par rapport à leurs caractéristiques ?
+
+Quelles villes présentent la plus grande volatilité des prix (indicateur d'instabilité) ?
+
+Quelles sont les villes qui offrent le meilleur rapport qualité-prix ?
+
+Comment les facteurs de confort (climatisation, parking, ameublement) influencent-ils l'évaluation ?
+
+Comment utiliser Power BI pour créer un modèle d'évaluation immobilière unifié au Maroc ?
